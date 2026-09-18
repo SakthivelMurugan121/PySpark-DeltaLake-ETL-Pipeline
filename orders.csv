@@ -1,0 +1,61 @@
+order_id,customer_id,product_id,product_name,category,quantity,price,city,order_date
+1,C101,P001,Laptop,Electronics,2,50000,Chennai,2025-01-01
+2,C102,P002,Phone,Electronics,1,30000,Bangalore,2025-01-02
+3,C103,P003,Keyboard,Accessories,3,1500,Hyderabad,2025-01-02
+4,C104,P001,Laptop,Electronics,1,50000,Chennai,2025-01-03
+5,C101,P004,Mouse,Accessories,5,800,Mumbai,2025-01-04
+6,C105,P005,Monitor,Electronics,2,12000,Delhi,2025-01-05
+7,C106,P006,Printer,Electronics,1,15000,Pune,2025-01-05
+8,C107,P007,Tablet,Electronics,2,20000,Kolkata,2025-01-06
+9,C108,P008,Headphones,Accessories,4,2500,Chennai,2025-01-06
+10,C109,P009,Speaker,Accessories,2,3500,Bangalore,2025-01-07
+11,C110,P010,Webcam,Accessories,3,1800,Hyderabad,2025-01-08
+12,C111,P011,SSD,Electronics,2,6000,Mumbai,2025-01-08
+13,C112,P012,Hard Disk,Electronics,1,5500,Delhi,2025-01-09
+14,C113,P013,Router,Networking,2,2500,Pune,2025-01-09
+15,C114,P014,Switch,Networking,1,4500,Kolkata,2025-01-10
+16,C115,P015,UPS,Electronics,2,7000,Chennai,2025-01-11
+17,C116,P016,Graphics Card,Electronics,1,45000,Bangalore,2025-01-11
+18,C117,P017,RAM,Electronics,4,3500,Hyderabad,2025-01-12
+19,C118,P018,Processor,Electronics,1,28000,Mumbai,2025-01-12
+20,C119,P019,Power Bank,Accessories,3,1200,Delhi,2025-01-13
+21,C120,P020,Smart Watch,Electronics,2,8000,Pune,2025-01-14
+22,C121,P021,Microphone,Accessories,2,2200,Kolkata,2025-01-14
+23,C122,P022,Laptop,Electronics,1,52000,Chennai,2025-01-15
+24,C123,P023,Phone,Electronics,2,32000,Bangalore,2025-01-15
+25,C124,P024,Keyboard,Accessories,5,1600,Hyderabad,2025-01-16
+26,C125,P025,Mouse,Accessories,6,900,Mumbai,2025-01-16
+27,C126,P026,Monitor,Electronics,1,13000,Delhi,2025-01-17
+28,C127,P027,Printer,Electronics,2,14500,Pune,2025-01-17
+29,C128,P028,Tablet,Electronics,1,21000,Kolkata,2025-01-18
+30,C129,P029,Headphones,Accessories,3,2800,Chennai,2025-01-18
+31,C130,P030,Speaker,Accessories,4,3700,Bangalore,2025-01-19
+32,C131,P031,Webcam,Accessories,2,2000,Hyderabad,2025-01-19
+33,C132,P032,SSD,Electronics,3,6200,Mumbai,2025-01-20
+34,C133,P033,Hard Disk,Electronics,2,5800,Delhi,2025-01-20
+35,C134,P034,Router,Networking,3,2600,Pune,2025-01-21
+36,C135,P035,Switch,Networking,2,4700,Kolkata,2025-01-21
+37,C136,P036,UPS,Electronics,1,7200,Chennai,2025-01-22
+38,C137,P037,Graphics Card,Electronics,1,48000,Bangalore,2025-01-22
+39,C138,P038,RAM,Electronics,2,3600,Hyderabad,2025-01-23
+40,C139,P039,Processor,Electronics,1,30000,Mumbai,2025-01-23
+41,C140,P040,Power Bank,Accessories,5,1300,Delhi,2025-01-24
+42,C141,P041,Smart Watch,Electronics,1,8500,Pune,2025-01-24
+43,C142,P042,Microphone,Accessories,3,2400,Kolkata,2025-01-25
+44,C143,P043,Laptop,Electronics,2,55000,Chennai,2025-01-25
+45,C144,P044,Phone,Electronics,1,35000,Bangalore,2025-01-26
+46,C145,P045,Keyboard,Accessories,4,1700,Hyderabad,2025-01-26
+47,C146,P046,Mouse,Accessories,8,950,Mumbai,2025-01-27
+48,C147,P047,Monitor,Electronics,2,13500,Delhi,2025-01-27
+49,C148,P048,Printer,Electronics,1,16000,Pune,2025-01-28
+50,C149,P049,Tablet,Electronics,3,22000,Kolkata,2025-01-28
+9,C108,P008,Headphones,Accessories,,2500,Chennai,2025-01-06
+16,C115,P015,UPS,Electronics,-2,7000,Chennai,2025-01-11
+18,C117,P017,RAM,Electronics,4,3500,,2025-01-12
+22,C121,P021,Microphone,Accessories,2,2200,Kolkata,2025-15-14
+32,C131,P031,Webcam,Accessories,-2,2000,Hyderabad,2025-01-19
+35,C134,P034,Router,Networking,3,2600,,2025-01-21
+37,C136,P036,UPS,Electronics,1,7200,Chennai,2025-13-22
+41,C140,P040,Power Bank,Accessories,,1300,Delhi,2025-01-24
+47,C146,P046,Mouse,Accessories,-8,950,Mumbai,2025-01-27
+49,C148,P048,Printer,Electronics,1,16000,Pune,2025-25-28
